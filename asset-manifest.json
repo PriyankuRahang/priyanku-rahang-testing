@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Get-Movies-Now/static/css/main.8cee230a.css",
+    "main.js": "/Get-Movies-Now/static/js/main.2a6092fe.js",
+    "static/js/787.b2dfefea.chunk.js": "/Get-Movies-Now/static/js/787.b2dfefea.chunk.js",
+    "index.html": "/Get-Movies-Now/index.html",
+    "main.8cee230a.css.map": "/Get-Movies-Now/static/css/main.8cee230a.css.map",
+    "main.2a6092fe.js.map": "/Get-Movies-Now/static/js/main.2a6092fe.js.map",
+    "787.b2dfefea.chunk.js.map": "/Get-Movies-Now/static/js/787.b2dfefea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cee230a.css",
+    "static/js/main.2a6092fe.js"
+  ]
+}
